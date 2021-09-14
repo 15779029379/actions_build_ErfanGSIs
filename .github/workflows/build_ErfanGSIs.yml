@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL:https://www.yunzhongzhuan.com/download/53806/h2ptTZvt/miui_MIDO_21.8.18_0e9fee839e_11.0.zip
+  ROM_URL:https://download.mcloud.139.com/storageWeb/servlet/downloadServlet?code=S0IwYTExZHl2SWsxd3cwODcxN3BSV2JicGdy&un=FA87C8D07E4D64685E62D4D879FFB5137D04037E04506A250AAD506F05F2231A&dom=D961&rate=0&txType=0
   ROM_NAME:miui
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
