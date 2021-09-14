@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL:https://onedrive.live.com/redir?resid=99BA47EB900B442B!1397&authkey=!AOYxRPuLctotjxU&e=M6tl6m
+  ROM_URL:https://www.yunzhongzhuan.com/#sharefile=PT812Tmq_11057
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
